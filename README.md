@@ -10,4 +10,5 @@ Action: Designed a Production Anomaly Tracking System combining Google Forms for
 
 Result: Established a structured, data-driven anomaly management process, enabling prioritization of issues, systematic root cause elimination, and improved production reliability, cutting 18% of anomalies.
 
+
 > **Disclaimer:** This repository contains scripts that have been modified to replace sensitive information with example placeholders for privacy and portfolio purposes.
